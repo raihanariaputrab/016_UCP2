@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">exercise2</string>
+    <string name="NamaMahasiswa">nama</string>
+    <string name="NIM">nim</string>
+    <string name="Konsentrasi">konsentrasi</string>
+    <string name="JdlSkripsi">JudulSkripsi</string>
+    <string name="submit">btn.submit</string>
+    <string name="next">lanjut</string>
+    <string name="back">kembali</string>
+    <string name="confirm">konfirmasi</string>
+    <string name="cancel">batal</string>
+    <string name="DosPem">dosenPembimbing</string>
+    <string name="send">kirim</string>
+</resources>
